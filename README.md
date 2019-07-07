@@ -1,2 +1,2 @@
-# The-Temple-V2
-Herkansing BPW1 van Miranda Vollenberg
+# The-Temple
+The Temple is a short first-person game in which you attempt to help an ancient spirit.
